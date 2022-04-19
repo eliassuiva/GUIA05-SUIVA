@@ -1,2 +1,2 @@
-<h1 aling="center"> JAVA-Repository </h2>
+<h1 align="center"> JAVA-Repository </h1>
 
